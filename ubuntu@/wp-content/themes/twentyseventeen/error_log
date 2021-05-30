@@ -1,0 +1,26 @@
+[06-May-2019 13:25:21 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/yolohde1/public_html/eshine.pub/wp-content/themes/twentyseventeen/404.php on line 13
+[19-May-2019 04:16:15 Etc/GMT] PHP Notice:  Undefined index: wp_version in /home/yolohde1/public_html/eshine.pub/wp-content/themes/twentyseventeen/functions.php on line 15
+[19-May-2019 04:16:15 Etc/GMT] PHP Fatal error:  Call to undefined function get_template_directory() in /home/yolohde1/public_html/eshine.pub/wp-content/themes/twentyseventeen/functions.php on line 16
+[02-Jun-2019 20:17:06 Etc/GMT] PHP Fatal error:  Call to undefined function get_template_part() in /home/yolohde1/public_html/eshine.pub/wp-content/themes/twentyseventeen/footer.php on line 22
+[15-Jun-2019 07:26:50 Etc/GMT] PHP Notice:  Undefined index: wp_version in /home/yolohde1/public_html/eshine.pub/wp-content/themes/twentyseventeen/functions.php on line 15
+[15-Jun-2019 07:26:50 Etc/GMT] PHP Fatal error:  Call to undefined function get_template_directory() in /home/yolohde1/public_html/eshine.pub/wp-content/themes/twentyseventeen/functions.php on line 16
+[01-Jul-2019 18:21:54 Etc/GMT] PHP Fatal error:  Call to undefined function get_template_part() in /home/yolohde1/public_html/eshine.pub/wp-content/themes/twentyseventeen/footer.php on line 22
+[06-Jul-2019 03:39:58 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/yolohde1/public_html/eshine.pub/wp-content/themes/twentyseventeen/404.php on line 13
+[14-Jul-2019 20:49:01 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/yolohde1/public_html/eshine.pub/wp-content/themes/twentyseventeen/404.php on line 13
+[18-Jul-2019 07:14:25 Etc/GMT] PHP Fatal error:  Call to undefined function get_template_part() in /home/yolohde1/public_html/eshine.pub/wp-content/themes/twentyseventeen/footer.php on line 22
+[06-Aug-2019 12:35:59 Etc/GMT] PHP Notice:  Undefined index: wp_version in /home/yolohde1/public_html/eshine.pub/wp-content/themes/twentyseventeen/functions.php on line 15
+[06-Aug-2019 12:35:59 Etc/GMT] PHP Fatal error:  Call to undefined function get_template_directory() in /home/yolohde1/public_html/eshine.pub/wp-content/themes/twentyseventeen/functions.php on line 16
+[03-Oct-2019 23:46:06 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/yolohde1/public_html/eshine.pub/wp-content/themes/twentyseventeen/404.php on line 13
+[19-Oct-2019 22:02:58 Etc/GMT] PHP Fatal error:  Call to undefined function get_template_part() in /home/yolohde1/public_html/eshine.pub/wp-content/themes/twentyseventeen/footer.php on line 22
+[05-Nov-2019 19:52:48 Etc/GMT] PHP Fatal error:  Call to undefined function get_template_part() in /home/yolohde1/public_html/eshine.pub/wp-content/themes/twentyseventeen/footer.php on line 22
+[18-Nov-2019 17:25:53 Etc/GMT] PHP Notice:  Undefined index: wp_version in /home/yolohde1/public_html/eshine.pub/wp-content/themes/twentyseventeen/functions.php on line 15
+[18-Nov-2019 17:25:53 Etc/GMT] PHP Fatal error:  Call to undefined function get_template_directory() in /home/yolohde1/public_html/eshine.pub/wp-content/themes/twentyseventeen/functions.php on line 16
+[03-Dec-2019 19:19:09 Etc/GMT] PHP Notice:  Undefined index: wp_version in /home/yolohde1/public_html/eshine.pub/wp-content/themes/twentyseventeen/functions.php on line 15
+[03-Dec-2019 19:19:09 Etc/GMT] PHP Fatal error:  Call to undefined function get_template_directory() in /home/yolohde1/public_html/eshine.pub/wp-content/themes/twentyseventeen/functions.php on line 16
+[03-Jun-2020 11:36:02 Etc/GMT] PHP Fatal error:  Call to undefined function get_template_directory() in /home/yolohde1/public_html/eshine.pub/wp-content/themes/twentyseventeen/functions.php on line 16
+[03-Dec-2020 19:15:04 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/yolohde1/public_html/eshine.pub/wp-content/themes/twentyseventeen/404.php on line 13
+[25-Dec-2020 19:57:26 Etc/GMT] PHP Fatal error:  Call to undefined function get_template_part() in /home/yolohde1/public_html/eshine.pub/wp-content/themes/twentyseventeen/footer.php on line 22
+[28-Dec-2020 06:50:12 Etc/GMT] PHP Fatal error:  Call to undefined function get_template_part() in /home/yolohde1/public_html/eshine.pub/wp-content/themes/twentyseventeen/footer.php on line 22
+[29-Dec-2020 22:53:48 Etc/GMT] PHP Fatal error:  Call to undefined function get_template_directory() in /home/yolohde1/public_html/eshine.pub/wp-content/themes/twentyseventeen/functions.php on line 16
+[11-Jan-2021 20:57:56 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/yolohde1/public_html/eshine.pub/wp-content/themes/twentyseventeen/404.php on line 13
+[03-Mar-2021 02:33:43 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/yolohde1/public_html/eshine.pub/wp-content/themes/twentyseventeen/404.php on line 13

@@ -1,0 +1,5 @@
+[01-Aug-2020 07:57:41 Etc/GMT] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/yolohde1/public_html/eshine.pub/wp-includes/customize/class-wp-customize-theme-control.php on line 17
+[01-Aug-2020 07:57:45 Etc/GMT] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/yolohde1/public_html/eshine.pub/wp-includes/customize/class-wp-customize-theme-control.php on line 17
+[01-Aug-2020 12:33:44 Etc/GMT] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/yolohde1/public_html/eshine.pub/wp-includes/customize/class-wp-customize-theme-control.php on line 17
+[01-Aug-2020 12:34:12 Etc/GMT] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/yolohde1/public_html/eshine.pub/wp-includes/customize/class-wp-customize-theme-control.php on line 17
+[01-Aug-2020 13:18:57 Etc/GMT] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/yolohde1/public_html/eshine.pub/wp-includes/customize/class-wp-widget-form-customize-control.php on line 17

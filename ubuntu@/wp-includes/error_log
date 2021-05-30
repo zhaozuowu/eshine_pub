@@ -1,0 +1,11 @@
+[25-Apr-2019 14:33:38 Etc/GMT] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/yolohde1/public_html/eshine.pub/wp-includes/locale.php on line 10
+[30-Jul-2020 14:29:39 Etc/GMT] PHP Fatal error:  Call to undefined function is_main_site() in /home/yolohde1/public_html/eshine.pub/wp-includes/update.php on line 739
+[31-Jul-2020 01:04:30 Etc/GMT] PHP Fatal error:  Class 'IXR_Server' not found in /home/yolohde1/public_html/eshine.pub/wp-includes/class-wp-xmlrpc-server.php on line 23
+[31-Jul-2020 02:01:06 Etc/GMT] PHP Fatal error:  Call to undefined function feed_content_type() in /home/yolohde1/public_html/eshine.pub/wp-includes/feed-atom-comments.php on line 8
+[01-Aug-2020 09:50:45 Etc/GMT] PHP Fatal error:  Class 'IXR_Server' not found in /home/yolohde1/public_html/eshine.pub/wp-includes/class-wp-xmlrpc-server.php on line 23
+[03-Sep-2020 14:18:34 Etc/GMT] PHP Fatal error:  Call to undefined function is_main_site() in /home/yolohde1/public_html/eshine.pub/wp-includes/update.php on line 739
+[03-Sep-2020 14:18:50 Etc/GMT] PHP Fatal error:  Call to undefined function is_main_site() in /home/yolohde1/public_html/eshine.pub/wp-includes/update.php on line 739
+[03-Sep-2020 17:28:29 Etc/GMT] PHP Fatal error:  Call to undefined function feed_content_type() in /home/yolohde1/public_html/eshine.pub/wp-includes/feed-atom-comments.php on line 8
+[04-Sep-2020 03:45:14 Etc/GMT] PHP Fatal error:  Call to undefined function feed_content_type() in /home/yolohde1/public_html/eshine.pub/wp-includes/feed-atom-comments.php on line 8
+[04-Jan-2021 18:57:31 Etc/GMT] PHP Fatal error:  Class 'Walker' not found in /home/yolohde1/public_html/eshine.pub/wp-includes/class-walker-nav-menu.php on line 17
+[07-Jan-2021 05:40:13 Etc/GMT] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/yolohde1/public_html/eshine.pub/wp-includes/locale.php on line 10

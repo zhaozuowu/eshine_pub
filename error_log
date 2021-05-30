@@ -1,0 +1,257 @@
+[09-May-2021 13:16:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function register_block_type() in /home/yolohde1/public_html/eshine.pub/wp-content/plugins/wordpress-seo/src/integrations/blocks/abstract-dynamic-block.php:46
+Stack trace:
+#0 /home/yolohde1/public_html/eshine.pub/wp-includes/class-wp-hook.php(286): Yoast\WP\SEO\Integrations\Blocks\Dynamic_Block->register_block('')
+#1 /home/yolohde1/public_html/eshine.pub/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home/yolohde1/public_html/eshine.pub/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /home/yolohde1/public_html/eshine.pub/wp-settings.php(450): do_action('init')
+#4 /home/yolohde1/public_html/eshine.pub/wp-config.php(89): require_once('/home/yolohde1/...')
+#5 /home/yolohde1/public_html/eshine.pub/wp-load.php(37): require_once('/home/yolohde1/...')
+#6 /home/yolohde1/public_html/eshine.pub/wp-blog-header.php(13): require_once('/home/yolohde1/...')
+#7 /home/yolohde1/public_html/eshine.pub/index.php(18): require('/home/yolohde1/...')
+#8 {main}
+ in /home/yolohde1/public_html/eshine.pub/wp-content/plugins/wordpress-seo/src/integrations/blocks/abstract-dynamic-block.php on line 46
+[09-May-2021 19:07:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function register_block_type() in /home/yolohde1/public_html/eshine.pub/wp-content/plugins/wordpress-seo/src/integrations/blocks/abstract-dynamic-block.php:46
+Stack trace:
+#0 /home/yolohde1/public_html/eshine.pub/wp-includes/class-wp-hook.php(286): Yoast\WP\SEO\Integrations\Blocks\Dynamic_Block->register_block('')
+#1 /home/yolohde1/public_html/eshine.pub/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home/yolohde1/public_html/eshine.pub/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /home/yolohde1/public_html/eshine.pub/wp-settings.php(450): do_action('init')
+#4 /home/yolohde1/public_html/eshine.pub/wp-config.php(89): require_once('/home/yolohde1/...')
+#5 /home/yolohde1/public_html/eshine.pub/wp-load.php(37): require_once('/home/yolohde1/...')
+#6 /home/yolohde1/public_html/eshine.pub/wp-cron.php(33): require_once('/home/yolohde1/...')
+#7 {main}
+  thrown in /home/yolohde1/public_html/eshine.pub/wp-content/plugins/wordpress-seo/src/integrations/blocks/abstract-dynamic-block.php on line 46
+[09-May-2021 19:07:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function register_block_type() in /home/yolohde1/public_html/eshine.pub/wp-content/plugins/wordpress-seo/src/integrations/blocks/abstract-dynamic-block.php:46
+Stack trace:
+#0 /home/yolohde1/public_html/eshine.pub/wp-includes/class-wp-hook.php(286): Yoast\WP\SEO\Integrations\Blocks\Dynamic_Block->register_block('')
+#1 /home/yolohde1/public_html/eshine.pub/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home/yolohde1/public_html/eshine.pub/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /home/yolohde1/public_html/eshine.pub/wp-settings.php(450): do_action('init')
+#4 /home/yolohde1/public_html/eshine.pub/wp-config.php(89): require_once('/home/yolohde1/...')
+#5 /home/yolohde1/public_html/eshine.pub/wp-load.php(37): require_once('/home/yolohde1/...')
+#6 /home/yolohde1/public_html/eshine.pub/wp-blog-header.php(13): require_once('/home/yolohde1/...')
+#7 /home/yolohde1/public_html/eshine.pub/index.php(18): require('/home/yolohde1/...')
+#8 {main}
+ in /home/yolohde1/public_html/eshine.pub/wp-content/plugins/wordpress-seo/src/integrations/blocks/abstract-dynamic-block.php on line 46
+[09-May-2021 19:07:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function register_block_type() in /home/yolohde1/public_html/eshine.pub/wp-content/plugins/wordpress-seo/src/integrations/blocks/abstract-dynamic-block.php:46
+Stack trace:
+#0 /home/yolohde1/public_html/eshine.pub/wp-includes/class-wp-hook.php(286): Yoast\WP\SEO\Integrations\Blocks\Dynamic_Block->register_block('')
+#1 /home/yolohde1/public_html/eshine.pub/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home/yolohde1/public_html/eshine.pub/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /home/yolohde1/public_html/eshine.pub/wp-settings.php(450): do_action('init')
+#4 /home/yolohde1/public_html/eshine.pub/wp-config.php(89): require_once('/home/yolohde1/...')
+#5 /home/yolohde1/public_html/eshine.pub/wp-load.php(37): require_once('/home/yolohde1/...')
+#6 /home/yolohde1/public_html/eshine.pub/wp-blog-header.php(13): require_once('/home/yolohde1/...')
+#7 /home/yolohde1/public_html/eshine.pub/index.php(18): require('/home/yolohde1/...')
+#8 {main}
+ in /home/yolohde1/public_html/eshine.pub/wp-content/plugins/wordpress-seo/src/integrations/blocks/abstract-dynamic-block.php on line 46
+[12-May-2021 19:07:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function register_block_type() in /home/yolohde1/public_html/eshine.pub/wp-content/plugins/wordpress-seo/src/integrations/blocks/abstract-dynamic-block.php:46
+Stack trace:
+#0 /home/yolohde1/public_html/eshine.pub/wp-includes/class-wp-hook.php(286): Yoast\WP\SEO\Integrations\Blocks\Dynamic_Block->register_block('')
+#1 /home/yolohde1/public_html/eshine.pub/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home/yolohde1/public_html/eshine.pub/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /home/yolohde1/public_html/eshine.pub/wp-settings.php(450): do_action('init')
+#4 /home/yolohde1/public_html/eshine.pub/wp-config.php(89): require_once('/home/yolohde1/...')
+#5 /home/yolohde1/public_html/eshine.pub/wp-load.php(37): require_once('/home/yolohde1/...')
+#6 /home/yolohde1/public_html/eshine.pub/wp-cron.php(33): require_once('/home/yolohde1/...')
+#7 {main}
+  thrown in /home/yolohde1/public_html/eshine.pub/wp-content/plugins/wordpress-seo/src/integrations/blocks/abstract-dynamic-block.php on line 46
+[12-May-2021 19:07:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function register_block_type() in /home/yolohde1/public_html/eshine.pub/wp-content/plugins/wordpress-seo/src/integrations/blocks/abstract-dynamic-block.php:46
+Stack trace:
+#0 /home/yolohde1/public_html/eshine.pub/wp-includes/class-wp-hook.php(286): Yoast\WP\SEO\Integrations\Blocks\Dynamic_Block->register_block('')
+#1 /home/yolohde1/public_html/eshine.pub/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home/yolohde1/public_html/eshine.pub/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /home/yolohde1/public_html/eshine.pub/wp-settings.php(450): do_action('init')
+#4 /home/yolohde1/public_html/eshine.pub/wp-config.php(89): require_once('/home/yolohde1/...')
+#5 /home/yolohde1/public_html/eshine.pub/wp-load.php(37): require_once('/home/yolohde1/...')
+#6 /home/yolohde1/public_html/eshine.pub/wp-blog-header.php(13): require_once('/home/yolohde1/...')
+#7 /home/yolohde1/public_html/eshine.pub/index.php(18): require('/home/yolohde1/...')
+#8 {main}
+ in /home/yolohde1/public_html/eshine.pub/wp-content/plugins/wordpress-seo/src/integrations/blocks/abstract-dynamic-block.php on line 46
+[12-May-2021 19:07:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function register_block_type() in /home/yolohde1/public_html/eshine.pub/wp-content/plugins/wordpress-seo/src/integrations/blocks/abstract-dynamic-block.php:46
+Stack trace:
+#0 /home/yolohde1/public_html/eshine.pub/wp-includes/class-wp-hook.php(286): Yoast\WP\SEO\Integrations\Blocks\Dynamic_Block->register_block('')
+#1 /home/yolohde1/public_html/eshine.pub/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home/yolohde1/public_html/eshine.pub/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /home/yolohde1/public_html/eshine.pub/wp-settings.php(450): do_action('init')
+#4 /home/yolohde1/public_html/eshine.pub/wp-config.php(89): require_once('/home/yolohde1/...')
+#5 /home/yolohde1/public_html/eshine.pub/wp-load.php(37): require_once('/home/yolohde1/...')
+#6 /home/yolohde1/public_html/eshine.pub/wp-blog-header.php(13): require_once('/home/yolohde1/...')
+#7 /home/yolohde1/public_html/eshine.pub/index.php(18): require('/home/yolohde1/...')
+#8 {main}
+ in /home/yolohde1/public_html/eshine.pub/wp-content/plugins/wordpress-seo/src/integrations/blocks/abstract-dynamic-block.php on line 46
+[15-May-2021 19:07:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function register_block_type() in /home/yolohde1/public_html/eshine.pub/wp-content/plugins/wordpress-seo/src/integrations/blocks/abstract-dynamic-block.php:46
+Stack trace:
+#0 /home/yolohde1/public_html/eshine.pub/wp-includes/class-wp-hook.php(286): Yoast\WP\SEO\Integrations\Blocks\Dynamic_Block->register_block('')
+#1 /home/yolohde1/public_html/eshine.pub/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home/yolohde1/public_html/eshine.pub/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /home/yolohde1/public_html/eshine.pub/wp-settings.php(450): do_action('init')
+#4 /home/yolohde1/public_html/eshine.pub/wp-config.php(89): require_once('/home/yolohde1/...')
+#5 /home/yolohde1/public_html/eshine.pub/wp-load.php(37): require_once('/home/yolohde1/...')
+#6 /home/yolohde1/public_html/eshine.pub/wp-cron.php(33): require_once('/home/yolohde1/...')
+#7 {main}
+  thrown in /home/yolohde1/public_html/eshine.pub/wp-content/plugins/wordpress-seo/src/integrations/blocks/abstract-dynamic-block.php on line 46
+[15-May-2021 19:07:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function register_block_type() in /home/yolohde1/public_html/eshine.pub/wp-content/plugins/wordpress-seo/src/integrations/blocks/abstract-dynamic-block.php:46
+Stack trace:
+#0 /home/yolohde1/public_html/eshine.pub/wp-includes/class-wp-hook.php(286): Yoast\WP\SEO\Integrations\Blocks\Dynamic_Block->register_block('')
+#1 /home/yolohde1/public_html/eshine.pub/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home/yolohde1/public_html/eshine.pub/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /home/yolohde1/public_html/eshine.pub/wp-settings.php(450): do_action('init')
+#4 /home/yolohde1/public_html/eshine.pub/wp-config.php(89): require_once('/home/yolohde1/...')
+#5 /home/yolohde1/public_html/eshine.pub/wp-load.php(37): require_once('/home/yolohde1/...')
+#6 /home/yolohde1/public_html/eshine.pub/wp-blog-header.php(13): require_once('/home/yolohde1/...')
+#7 /home/yolohde1/public_html/eshine.pub/index.php(18): require('/home/yolohde1/...')
+#8 {main}
+ in /home/yolohde1/public_html/eshine.pub/wp-content/plugins/wordpress-seo/src/integrations/blocks/abstract-dynamic-block.php on line 46
+[15-May-2021 19:07:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function register_block_type() in /home/yolohde1/public_html/eshine.pub/wp-content/plugins/wordpress-seo/src/integrations/blocks/abstract-dynamic-block.php:46
+Stack trace:
+#0 /home/yolohde1/public_html/eshine.pub/wp-includes/class-wp-hook.php(286): Yoast\WP\SEO\Integrations\Blocks\Dynamic_Block->register_block('')
+#1 /home/yolohde1/public_html/eshine.pub/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home/yolohde1/public_html/eshine.pub/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /home/yolohde1/public_html/eshine.pub/wp-settings.php(450): do_action('init')
+#4 /home/yolohde1/public_html/eshine.pub/wp-config.php(89): require_once('/home/yolohde1/...')
+#5 /home/yolohde1/public_html/eshine.pub/wp-load.php(37): require_once('/home/yolohde1/...')
+#6 /home/yolohde1/public_html/eshine.pub/wp-blog-header.php(13): require_once('/home/yolohde1/...')
+#7 /home/yolohde1/public_html/eshine.pub/index.php(18): require('/home/yolohde1/...')
+#8 {main}
+ in /home/yolohde1/public_html/eshine.pub/wp-content/plugins/wordpress-seo/src/integrations/blocks/abstract-dynamic-block.php on line 46
+[18-May-2021 19:12:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function register_block_type() in /home/yolohde1/public_html/eshine.pub/wp-content/plugins/wordpress-seo/src/integrations/blocks/abstract-dynamic-block.php:46
+Stack trace:
+#0 /home/yolohde1/public_html/eshine.pub/wp-includes/class-wp-hook.php(286): Yoast\WP\SEO\Integrations\Blocks\Dynamic_Block->register_block('')
+#1 /home/yolohde1/public_html/eshine.pub/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home/yolohde1/public_html/eshine.pub/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /home/yolohde1/public_html/eshine.pub/wp-settings.php(450): do_action('init')
+#4 /home/yolohde1/public_html/eshine.pub/wp-config.php(89): require_once('/home/yolohde1/...')
+#5 /home/yolohde1/public_html/eshine.pub/wp-load.php(37): require_once('/home/yolohde1/...')
+#6 /home/yolohde1/public_html/eshine.pub/wp-cron.php(33): require_once('/home/yolohde1/...')
+#7 {main}
+  thrown in /home/yolohde1/public_html/eshine.pub/wp-content/plugins/wordpress-seo/src/integrations/blocks/abstract-dynamic-block.php on line 46
+[18-May-2021 19:12:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function register_block_type() in /home/yolohde1/public_html/eshine.pub/wp-content/plugins/wordpress-seo/src/integrations/blocks/abstract-dynamic-block.php:46
+Stack trace:
+#0 /home/yolohde1/public_html/eshine.pub/wp-includes/class-wp-hook.php(286): Yoast\WP\SEO\Integrations\Blocks\Dynamic_Block->register_block('')
+#1 /home/yolohde1/public_html/eshine.pub/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home/yolohde1/public_html/eshine.pub/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /home/yolohde1/public_html/eshine.pub/wp-settings.php(450): do_action('init')
+#4 /home/yolohde1/public_html/eshine.pub/wp-config.php(89): require_once('/home/yolohde1/...')
+#5 /home/yolohde1/public_html/eshine.pub/wp-load.php(37): require_once('/home/yolohde1/...')
+#6 /home/yolohde1/public_html/eshine.pub/wp-blog-header.php(13): require_once('/home/yolohde1/...')
+#7 /home/yolohde1/public_html/eshine.pub/index.php(18): require('/home/yolohde1/...')
+#8 {main}
+ in /home/yolohde1/public_html/eshine.pub/wp-content/plugins/wordpress-seo/src/integrations/blocks/abstract-dynamic-block.php on line 46
+[18-May-2021 19:12:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function register_block_type() in /home/yolohde1/public_html/eshine.pub/wp-content/plugins/wordpress-seo/src/integrations/blocks/abstract-dynamic-block.php:46
+Stack trace:
+#0 /home/yolohde1/public_html/eshine.pub/wp-includes/class-wp-hook.php(286): Yoast\WP\SEO\Integrations\Blocks\Dynamic_Block->register_block('')
+#1 /home/yolohde1/public_html/eshine.pub/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home/yolohde1/public_html/eshine.pub/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /home/yolohde1/public_html/eshine.pub/wp-settings.php(450): do_action('init')
+#4 /home/yolohde1/public_html/eshine.pub/wp-config.php(89): require_once('/home/yolohde1/...')
+#5 /home/yolohde1/public_html/eshine.pub/wp-load.php(37): require_once('/home/yolohde1/...')
+#6 /home/yolohde1/public_html/eshine.pub/wp-blog-header.php(13): require_once('/home/yolohde1/...')
+#7 /home/yolohde1/public_html/eshine.pub/index.php(18): require('/home/yolohde1/...')
+#8 {main}
+ in /home/yolohde1/public_html/eshine.pub/wp-content/plugins/wordpress-seo/src/integrations/blocks/abstract-dynamic-block.php on line 46
+[21-May-2021 19:07:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function register_block_type() in /home/yolohde1/public_html/eshine.pub/wp-content/plugins/wordpress-seo/src/integrations/blocks/abstract-dynamic-block.php:46
+Stack trace:
+#0 /home/yolohde1/public_html/eshine.pub/wp-includes/class-wp-hook.php(286): Yoast\WP\SEO\Integrations\Blocks\Dynamic_Block->register_block('')
+#1 /home/yolohde1/public_html/eshine.pub/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home/yolohde1/public_html/eshine.pub/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /home/yolohde1/public_html/eshine.pub/wp-settings.php(450): do_action('init')
+#4 /home/yolohde1/public_html/eshine.pub/wp-config.php(89): require_once('/home/yolohde1/...')
+#5 /home/yolohde1/public_html/eshine.pub/wp-load.php(37): require_once('/home/yolohde1/...')
+#6 /home/yolohde1/public_html/eshine.pub/wp-cron.php(33): require_once('/home/yolohde1/...')
+#7 {main}
+  thrown in /home/yolohde1/public_html/eshine.pub/wp-content/plugins/wordpress-seo/src/integrations/blocks/abstract-dynamic-block.php on line 46
+[21-May-2021 19:07:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function register_block_type() in /home/yolohde1/public_html/eshine.pub/wp-content/plugins/wordpress-seo/src/integrations/blocks/abstract-dynamic-block.php:46
+Stack trace:
+#0 /home/yolohde1/public_html/eshine.pub/wp-includes/class-wp-hook.php(286): Yoast\WP\SEO\Integrations\Blocks\Dynamic_Block->register_block('')
+#1 /home/yolohde1/public_html/eshine.pub/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home/yolohde1/public_html/eshine.pub/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /home/yolohde1/public_html/eshine.pub/wp-settings.php(450): do_action('init')
+#4 /home/yolohde1/public_html/eshine.pub/wp-config.php(89): require_once('/home/yolohde1/...')
+#5 /home/yolohde1/public_html/eshine.pub/wp-load.php(37): require_once('/home/yolohde1/...')
+#6 /home/yolohde1/public_html/eshine.pub/wp-blog-header.php(13): require_once('/home/yolohde1/...')
+#7 /home/yolohde1/public_html/eshine.pub/index.php(18): require('/home/yolohde1/...')
+#8 {main}
+ in /home/yolohde1/public_html/eshine.pub/wp-content/plugins/wordpress-seo/src/integrations/blocks/abstract-dynamic-block.php on line 46
+[21-May-2021 19:07:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function register_block_type() in /home/yolohde1/public_html/eshine.pub/wp-content/plugins/wordpress-seo/src/integrations/blocks/abstract-dynamic-block.php:46
+Stack trace:
+#0 /home/yolohde1/public_html/eshine.pub/wp-includes/class-wp-hook.php(286): Yoast\WP\SEO\Integrations\Blocks\Dynamic_Block->register_block('')
+#1 /home/yolohde1/public_html/eshine.pub/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home/yolohde1/public_html/eshine.pub/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /home/yolohde1/public_html/eshine.pub/wp-settings.php(450): do_action('init')
+#4 /home/yolohde1/public_html/eshine.pub/wp-config.php(89): require_once('/home/yolohde1/...')
+#5 /home/yolohde1/public_html/eshine.pub/wp-load.php(37): require_once('/home/yolohde1/...')
+#6 /home/yolohde1/public_html/eshine.pub/wp-blog-header.php(13): require_once('/home/yolohde1/...')
+#7 /home/yolohde1/public_html/eshine.pub/index.php(18): require('/home/yolohde1/...')
+#8 {main}
+ in /home/yolohde1/public_html/eshine.pub/wp-content/plugins/wordpress-seo/src/integrations/blocks/abstract-dynamic-block.php on line 46
+[24-May-2021 19:07:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function register_block_type() in /home/yolohde1/public_html/eshine.pub/wp-content/plugins/wordpress-seo/src/integrations/blocks/abstract-dynamic-block.php:46
+Stack trace:
+#0 /home/yolohde1/public_html/eshine.pub/wp-includes/class-wp-hook.php(286): Yoast\WP\SEO\Integrations\Blocks\Dynamic_Block->register_block('')
+#1 /home/yolohde1/public_html/eshine.pub/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home/yolohde1/public_html/eshine.pub/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /home/yolohde1/public_html/eshine.pub/wp-settings.php(450): do_action('init')
+#4 /home/yolohde1/public_html/eshine.pub/wp-config.php(89): require_once('/home/yolohde1/...')
+#5 /home/yolohde1/public_html/eshine.pub/wp-load.php(37): require_once('/home/yolohde1/...')
+#6 /home/yolohde1/public_html/eshine.pub/wp-cron.php(33): require_once('/home/yolohde1/...')
+#7 {main}
+  thrown in /home/yolohde1/public_html/eshine.pub/wp-content/plugins/wordpress-seo/src/integrations/blocks/abstract-dynamic-block.php on line 46
+[24-May-2021 19:07:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function register_block_type() in /home/yolohde1/public_html/eshine.pub/wp-content/plugins/wordpress-seo/src/integrations/blocks/abstract-dynamic-block.php:46
+Stack trace:
+#0 /home/yolohde1/public_html/eshine.pub/wp-includes/class-wp-hook.php(286): Yoast\WP\SEO\Integrations\Blocks\Dynamic_Block->register_block('')
+#1 /home/yolohde1/public_html/eshine.pub/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home/yolohde1/public_html/eshine.pub/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /home/yolohde1/public_html/eshine.pub/wp-settings.php(450): do_action('init')
+#4 /home/yolohde1/public_html/eshine.pub/wp-config.php(89): require_once('/home/yolohde1/...')
+#5 /home/yolohde1/public_html/eshine.pub/wp-load.php(37): require_once('/home/yolohde1/...')
+#6 /home/yolohde1/public_html/eshine.pub/wp-blog-header.php(13): require_once('/home/yolohde1/...')
+#7 /home/yolohde1/public_html/eshine.pub/index.php(18): require('/home/yolohde1/...')
+#8 {main}
+ in /home/yolohde1/public_html/eshine.pub/wp-content/plugins/wordpress-seo/src/integrations/blocks/abstract-dynamic-block.php on line 46
+[24-May-2021 19:07:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function register_block_type() in /home/yolohde1/public_html/eshine.pub/wp-content/plugins/wordpress-seo/src/integrations/blocks/abstract-dynamic-block.php:46
+Stack trace:
+#0 /home/yolohde1/public_html/eshine.pub/wp-includes/class-wp-hook.php(286): Yoast\WP\SEO\Integrations\Blocks\Dynamic_Block->register_block('')
+#1 /home/yolohde1/public_html/eshine.pub/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home/yolohde1/public_html/eshine.pub/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /home/yolohde1/public_html/eshine.pub/wp-settings.php(450): do_action('init')
+#4 /home/yolohde1/public_html/eshine.pub/wp-config.php(89): require_once('/home/yolohde1/...')
+#5 /home/yolohde1/public_html/eshine.pub/wp-load.php(37): require_once('/home/yolohde1/...')
+#6 /home/yolohde1/public_html/eshine.pub/wp-blog-header.php(13): require_once('/home/yolohde1/...')
+#7 /home/yolohde1/public_html/eshine.pub/index.php(18): require('/home/yolohde1/...')
+#8 {main}
+ in /home/yolohde1/public_html/eshine.pub/wp-content/plugins/wordpress-seo/src/integrations/blocks/abstract-dynamic-block.php on line 46
+[27-May-2021 19:08:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function register_block_type() in /home/yolohde1/public_html/eshine.pub/wp-content/plugins/wordpress-seo/src/integrations/blocks/abstract-dynamic-block.php:46
+Stack trace:
+#0 /home/yolohde1/public_html/eshine.pub/wp-includes/class-wp-hook.php(286): Yoast\WP\SEO\Integrations\Blocks\Dynamic_Block->register_block('')
+#1 /home/yolohde1/public_html/eshine.pub/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home/yolohde1/public_html/eshine.pub/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /home/yolohde1/public_html/eshine.pub/wp-settings.php(450): do_action('init')
+#4 /home/yolohde1/public_html/eshine.pub/wp-config.php(89): require_once('/home/yolohde1/...')
+#5 /home/yolohde1/public_html/eshine.pub/wp-load.php(37): require_once('/home/yolohde1/...')
+#6 /home/yolohde1/public_html/eshine.pub/wp-cron.php(33): require_once('/home/yolohde1/...')
+#7 {main}
+  thrown in /home/yolohde1/public_html/eshine.pub/wp-content/plugins/wordpress-seo/src/integrations/blocks/abstract-dynamic-block.php on line 46
+[27-May-2021 19:08:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function register_block_type() in /home/yolohde1/public_html/eshine.pub/wp-content/plugins/wordpress-seo/src/integrations/blocks/abstract-dynamic-block.php:46
+Stack trace:
+#0 /home/yolohde1/public_html/eshine.pub/wp-includes/class-wp-hook.php(286): Yoast\WP\SEO\Integrations\Blocks\Dynamic_Block->register_block('')
+#1 /home/yolohde1/public_html/eshine.pub/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home/yolohde1/public_html/eshine.pub/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /home/yolohde1/public_html/eshine.pub/wp-settings.php(450): do_action('init')
+#4 /home/yolohde1/public_html/eshine.pub/wp-config.php(89): require_once('/home/yolohde1/...')
+#5 /home/yolohde1/public_html/eshine.pub/wp-load.php(37): require_once('/home/yolohde1/...')
+#6 /home/yolohde1/public_html/eshine.pub/wp-blog-header.php(13): require_once('/home/yolohde1/...')
+#7 /home/yolohde1/public_html/eshine.pub/index.php(18): require('/home/yolohde1/...')
+#8 {main}
+ in /home/yolohde1/public_html/eshine.pub/wp-content/plugins/wordpress-seo/src/integrations/blocks/abstract-dynamic-block.php on line 46
+[27-May-2021 19:08:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function register_block_type() in /home/yolohde1/public_html/eshine.pub/wp-content/plugins/wordpress-seo/src/integrations/blocks/abstract-dynamic-block.php:46
+Stack trace:
+#0 /home/yolohde1/public_html/eshine.pub/wp-includes/class-wp-hook.php(286): Yoast\WP\SEO\Integrations\Blocks\Dynamic_Block->register_block('')
+#1 /home/yolohde1/public_html/eshine.pub/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home/yolohde1/public_html/eshine.pub/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /home/yolohde1/public_html/eshine.pub/wp-settings.php(450): do_action('init')
+#4 /home/yolohde1/public_html/eshine.pub/wp-config.php(89): require_once('/home/yolohde1/...')
+#5 /home/yolohde1/public_html/eshine.pub/wp-load.php(37): require_once('/home/yolohde1/...')
+#6 /home/yolohde1/public_html/eshine.pub/wp-blog-header.php(13): require_once('/home/yolohde1/...')
+#7 /home/yolohde1/public_html/eshine.pub/index.php(18): require('/home/yolohde1/...')
+#8 {main}
+ in /home/yolohde1/public_html/eshine.pub/wp-content/plugins/wordpress-seo/src/integrations/blocks/abstract-dynamic-block.php on line 46

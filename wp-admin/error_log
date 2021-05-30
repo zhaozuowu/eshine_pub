@@ -1,0 +1,20 @@
+[09-May-2021 14:39:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method WP_Screen::is_block_editor() in /home/yolohde1/public_html/eshine.pub/wp-content/plugins/wordpress-seo/admin/metabox/class-metabox.php:851
+Stack trace:
+#0 /home/yolohde1/public_html/eshine.pub/wp-includes/class-wp-hook.php(286): WPSEO_Metabox->enqueue('post.php')
+#1 /home/yolohde1/public_html/eshine.pub/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home/yolohde1/public_html/eshine.pub/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /home/yolohde1/public_html/eshine.pub/wp-admin/admin-header.php(97): do_action('admin_enqueue_s...', 'post.php')
+#4 /home/yolohde1/public_html/eshine.pub/wp-admin/edit-form-advanced.php(483): require_once('/home/yolohde1/...')
+#5 /home/yolohde1/public_html/eshine.pub/wp-admin/post.php(180): include('/home/yolohde1/...')
+#6 {main}
+  thrown in /home/yolohde1/public_html/eshine.pub/wp-content/plugins/wordpress-seo/admin/metabox/class-metabox.php on line 851
+[09-May-2021 14:40:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method WP_Screen::is_block_editor() in /home/yolohde1/public_html/eshine.pub/wp-content/plugins/wordpress-seo/admin/metabox/class-metabox.php:851
+Stack trace:
+#0 /home/yolohde1/public_html/eshine.pub/wp-includes/class-wp-hook.php(286): WPSEO_Metabox->enqueue('post.php')
+#1 /home/yolohde1/public_html/eshine.pub/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home/yolohde1/public_html/eshine.pub/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /home/yolohde1/public_html/eshine.pub/wp-admin/admin-header.php(97): do_action('admin_enqueue_s...', 'post.php')
+#4 /home/yolohde1/public_html/eshine.pub/wp-admin/edit-form-advanced.php(483): require_once('/home/yolohde1/...')
+#5 /home/yolohde1/public_html/eshine.pub/wp-admin/post.php(180): include('/home/yolohde1/...')
+#6 {main}
+  thrown in /home/yolohde1/public_html/eshine.pub/wp-content/plugins/wordpress-seo/admin/metabox/class-metabox.php on line 851
