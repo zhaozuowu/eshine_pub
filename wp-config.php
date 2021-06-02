@@ -29,7 +29,7 @@ define('DB_USER', 'yolohde1_wp469');
 define('DB_PASSWORD', 'u![pSE9z96');
 
 /** MySQL hostname */
-define('DB_HOST', 'localhost');
+define('DB_HOST', getenv('WORDPRESS_DB_HOST'));
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
