@@ -2,14 +2,19 @@ version: '3.3'
 services:
   db:
     image: mysql:5.7
+    container_name: eshine-mysql
+    ports:
+      - 3306:3306
+    networks:
+      - eshine-pub
     volumes:
-      - db_data:/var/lib/mysql
+      - ./db_data:/var/lib/mysql
     restart: always
     environment:
-      MYSQL_ROOT_PASSWORD: somewordpress
-      MYSQL_DATABASE: wordpress
-      MYSQL_USER: wordpress
-      MYSQL_PASSWORD: wordpress
+      MYSQL_ROOT_PASSWORD: u![pSE9z96
+      MYSQL_DATABASE: yolohde1_wp469
+      MYSQL_USER: yolohde1_wp469
+      MYSQL_PASSWORD: u![pSE9z96
   wordpress:
     depends_on:
       - db
@@ -17,13 +22,18 @@ services:
     volumes:
       - ./:/var/www/html
     ports:
-      - "8000:80"
+      - "80:80"
+    networks:
+      - eshine-pub
     restart: always
     environment:
       WORDPRESS_DB_HOST: db:3306
-      WORDPRESS_DB_USER: wordpress
-      WORDPRESS_DB_PASSWORD: wordpress
-      WORDPRESS_DB_NAME: wordpress
+      WORDPRESS_DB_USER: yolohde1_wp469
+      WORDPRESS_DB_PASSWORD: u![pSE9z96
+      WORDPRESS_DB_NAME: yolohde1_wp469
 volumes:
   db_data: { }
+networks:
+  eshine-pub:
+
 
